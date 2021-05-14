@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87c83851604abf04d876205ea581250a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damagedSprite: {instanceID: 0}
+  - damagedMoreSprite: {instanceID: 0}
+  - soundEffect: {fileID: 8300000, guid: b6958b3f043165b4da378e25f327d5ea, type: 3}
+  - sparklesVFX: {fileID: 100000, guid: d5e82db177172f34b9f251861ff9d6f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
